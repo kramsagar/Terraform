@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "linux_amd64": {
+      "hashes": [
+        "h1:8oTPe2VUL6E2d3OcrvqyjI4Nn/Y/UEQN26WLk5O/B0g="
+      ],
+      "url": "terraform-provider-local_2.5.1_linux_amd64.zip"
+    }
+  }
+}

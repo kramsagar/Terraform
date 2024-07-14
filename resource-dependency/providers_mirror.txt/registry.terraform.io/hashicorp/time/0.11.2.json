@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "linux_amd64": {
+      "hashes": [
+        "h1:bC4b7n4g30ciIn5w6b66mXSTIo2CH6XQbp+gBdDvlYs="
+      ],
+      "url": "terraform-provider-time_0.11.2_linux_amd64.zip"
+    }
+  }
+}
