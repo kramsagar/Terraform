@@ -1,6 +1,6 @@
-.learn-terraform-docker-container/terraform/
-.learn_azure/terraform/
-.resource-dependency/terraform/
-.local/terraform/
-.Azure-tf/terraform/
-.Aws-tf/terraform/
+learn-terraform-docker-container/.terraform/
+learn_azure/.terraform/
+resource-dependency/.terraform/
+local/.terraform/
+Azure-tf/.terraform/
+Aws-tf/.terraform/
