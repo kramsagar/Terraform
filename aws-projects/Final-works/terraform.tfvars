@@ -1,5 +1,5 @@
 region     = "us-east-1"
-access_key = "AKIATCKAQS7WO3EBM4X3"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 ami="ami-03d1b2fa19c17c9f1"
 instance_type = "t2.micro"
